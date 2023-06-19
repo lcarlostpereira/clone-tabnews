@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Frase Certa</h1>
+    return <h1>Frase Certa 2</h1>
 
     
 }
